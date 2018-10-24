@@ -1,0 +1,1 @@
+Tiny De <-> Ru translation telegram bot using Multitran.
